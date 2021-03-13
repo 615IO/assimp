@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderBMesh.cpp \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderBMesh.h \
+  /Users/mwallace/assimp/include/assimp/LogAux.h \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderDNA.h \
+  /Users/mwallace/assimp/include/assimp/BaseImporter.h \
+  /Users/mwallace/assimp/include/assimp/StreamReader.h \
+  /Users/mwallace/assimp/include/assimp/DefaultLogger.hpp \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderDNA.inl \
+  /Users/mwallace/assimp/include/assimp/TinyFormatter.h \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderScene.h \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderTessellator.h \
+  /Users/mwallace/assimp/include/../contrib/poly2tri/poly2tri/poly2tri.h \
+  /Users/mwallace/assimp/include/../contrib/poly2tri/poly2tri/common/shapes.h \
+  /Users/mwallace/assimp/include/../contrib/poly2tri/poly2tri/sweep/cdt.h \
+  /Users/mwallace/assimp/include/../contrib/poly2tri/poly2tri/sweep/advancing_front.h \
+  /Users/mwallace/assimp/include/../contrib/poly2tri/poly2tri/sweep/../common/shapes.h \
+  /Users/mwallace/assimp/include/../contrib/poly2tri/poly2tri/sweep/sweep_context.h \
+  /Users/mwallace/assimp/include/../contrib/poly2tri/poly2tri/sweep/sweep.h

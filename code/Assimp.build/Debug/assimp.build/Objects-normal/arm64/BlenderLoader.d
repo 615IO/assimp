@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderLoader.cpp \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderBMesh.h \
+  /Users/mwallace/assimp/include/assimp/LogAux.h \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderCustomData.h \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderDNA.h \
+  /Users/mwallace/assimp/include/assimp/BaseImporter.h \
+  /Users/mwallace/assimp/include/assimp/StreamReader.h \
+  /Users/mwallace/assimp/include/assimp/DefaultLogger.hpp \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderDNA.inl \
+  /Users/mwallace/assimp/include/assimp/TinyFormatter.h \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderScene.h \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderIntermediate.h \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderLoader.h \
+  /Users/mwallace/assimp/include/assimp/material.h \
+  /Users/mwallace/assimp/code/AssetLib/Blender/BlenderModifier.h \
+  /Users/mwallace/assimp/include/assimp/StringUtils.h \
+  /Users/mwallace/assimp/include/assimp/importerdesc.h \
+  /Users/mwallace/assimp/include/assimp/scene.h \
+  /Users/mwallace/assimp/include/assimp/MemoryIOWrapper.h \
+  /Users/mwallace/assimp/include/assimp/StringComparison.h

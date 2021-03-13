@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/mwallace/assimp/code/AssetLib/Collada/ColladaExporter.cpp \
+  /Users/mwallace/assimp/code/AssetLib/Collada/ColladaExporter.h \
+  /Users/mwallace/assimp/include/assimp/ai_assert.h \
+  /Users/mwallace/assimp/include/assimp/defs.h \
+  /Users/mwallace/assimp/include/assimp/material.h \
+  /Users/mwallace/assimp/include/assimp/Bitmap.h \
+  /Users/mwallace/assimp/include/assimp/ColladaMetaData.h \
+  /Users/mwallace/assimp/include/assimp/DefaultIOSystem.h \
+  /Users/mwallace/assimp/include/assimp/Exceptional.h \
+  /Users/mwallace/assimp/include/assimp/MathFunctions.h \
+  /Users/mwallace/assimp/include/assimp/SceneCombiner.h \
+  /Users/mwallace/assimp/include/assimp/StringUtils.h \
+  /Users/mwallace/assimp/include/assimp/XMLTools.h \
+  /Users/mwallace/assimp/include/assimp/commonMetaData.h \
+  /Users/mwallace/assimp/include/assimp/fast_atof.h \
+  /Users/mwallace/assimp/include/assimp/scene.h \
+  /Users/mwallace/assimp/include/assimp/Exporter.hpp \
+  /Users/mwallace/assimp/include/assimp/IOSystem.hpp
